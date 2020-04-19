@@ -1,0 +1,18 @@
+{
+  "name": "pomodoro-plus",
+  "main": "./lib/pomodoro-plus",
+  "version": "0.1.0",
+  "description": "Easily configurable Pomororo Timer!",
+  "keywords": [
+    "pomodoro",
+    "configurable",
+    "productivity",
+    "work in progress"
+  ],
+  "repository": "https://github.com/emmanuelmenon/pomodoro-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

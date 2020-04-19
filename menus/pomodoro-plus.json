@@ -1,0 +1,18 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Start/Stop Pomodoro Timer",
+            "command": "pomodoro-plus:check"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "Pomodoro Plus",
+            "submenu": [{
+                "label": "Start/Stop Timer",
+                "command": "pomodoro-plus:check"
+            }]
+        }]
+    }]
+}
