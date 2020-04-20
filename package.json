@@ -1,7 +1,7 @@
 {
   "name": "pomodoro-plus",
   "main": "./lib/pomodoro-plus",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Easily configurable Pomororo Timer!",
   "keywords": [
     "pomodoro",
