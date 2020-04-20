@@ -1,6 +1,10 @@
 # Pomodoro Plus - An Atom Package
+## Using It
+Start the timer with: `ctrl-alt-p`, configure the timing of your Pomodoros in `Settings > Packages > pomodoro-plus`
+
 ## Installation
 `apm install pomodoro-plus`
+
 ## License
 ```
 Copyright (c) 2020 Emmanuel Harish Menon
